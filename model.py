@@ -29,4 +29,4 @@ def model_pipeline(text: str, image: Image):
 
 
 
-print("Predicted answer:", )
+# print("Predicted answer:", )
